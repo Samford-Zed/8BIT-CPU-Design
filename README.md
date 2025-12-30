@@ -51,7 +51,7 @@
 
 <footer>
   <p>
-    <strong>Author:</strong> Samuel Terefe<br>
+    <strong>Author:</strong> Samuel Zenebe<br>
     <strong>Department:</strong> Computer Science & Engineering
   </p>
 </footer>
