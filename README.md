@@ -6,7 +6,7 @@
 <body>
 
 <h1>8-bit Processor Design</h1>
-<p><strong>Course:</strong> Computer Architecture and Organization </p>
+<p> Computer Architecture and Organization </p>
 
 <div class="card">
   <p>
